@@ -1,3 +1,3 @@
 # machine-learning
 iris data is used in this program 
-linear regression algorithem is used in program 
+logistic regression algorithem is used in program 
